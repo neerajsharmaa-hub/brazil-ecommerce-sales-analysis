@@ -12,7 +12,7 @@ Tableau Public
 ![Dashboard](Brazil Ecommerce Sales Dashboard.png)
 
 ## Tableau Public Dashboard
-[View Dashboard Here]([url](https://public.tableau.com/views/OlistE-CommerceSalesAnalysisSQLTableau/BrazilEcommerceSalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View Dashboard Here]((https://public.tableau.com/views/OlistE-CommerceSalesAnalysisSQLTableau/BrazilEcommerceSalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 
 ## Key Insights
